@@ -4,8 +4,8 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/g_g5-2i1g-kAAAAd/coding-freak.gif](https://tenor.com/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292)">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalesh0111&label=Profile%20views&color=0e75b6&style=flat" alt="kamalesh0111" /> </p>
+<img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
+<br><br>
 
 <h3 align="left">About Me:</h3>
 
