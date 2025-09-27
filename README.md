@@ -9,7 +9,7 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🌱 I’m passionate about developing **open-source tools and full-stack applications**
+- 🥋 I’m passionate about developing **open-source tools and full-stack applications**
 - 👯 I’m looking to collaborate on **challengeing open-source projects and scalable web applications.**
 - 💬 Ask me about **Java, Full-Stack Development (React/Node.js), building SDKs, or competitive programming.**
 - 📄 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1AJs9fsIH0x--qDCjLFnYqt5hvz1r_t9J/view?usp=sharing) <br/><br/>
